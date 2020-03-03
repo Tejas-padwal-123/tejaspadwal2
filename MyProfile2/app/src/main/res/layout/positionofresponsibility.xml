@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Current General Secretary of IETE-RAIT 2019-20."
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Organized a worksiop on Desinging Microcontroller Based System in association with IETE-RAIT."
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Organized a worksiop on Antenna Desining Tools using EM-CUBE in association with IETE-RAIT."
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Worked as Membership Head at IETE-RAIT 2018-19."
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ecent organiser at IETE-RAIT suring TECHFEST-IGNITE 2018."
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+</LinearLayout>

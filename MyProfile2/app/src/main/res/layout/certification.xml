@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:accessibilityPaneTitle="certification"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="participated in workshop on IOT and it's application organized by IOT center Excellence 2019"
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="certification of participation in National Level project compitition 'Shrijan'2018"
+            android:textStyle="normal"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:textSize="20sp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="completed Training on Introduction to matlab organizesd by IETE-RAIT 2018"
+            android:textStyle="normal"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:textSize="20sp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="certification of forklift robotics workshop organized by IEEE-RAIT 2016"
+            android:textStyle="normal"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:textSize="20sp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="certification of forklift robotics workshop organized by IEEE-RAIT 2016"
+            android:textStyle="normal"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:textSize="20sp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+
+</LinearLayout>

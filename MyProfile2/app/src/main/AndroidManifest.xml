@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.myprofile">
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="My Profile"
+            >
+
+        <activity
+                  android:name=".achivments"
+                  android:label="Achivments"
+                  ></activity>
+
+
+        <activity
+
+                  android:name=".positionofresponsibility"
+                  android:label="Position of responsibility"
+                  />
+
+        <activity android:allowBackup="true"
+                  android:icon="@mipmap/ic_launcher"
+                  android:name=".projectandinternshhip"
+                  android:label="Posject and internship"
+                ></activity>
+
+        <activity
+                   android:name=".certification"
+                   android:label="certification">
+
+        </activity>
+
+
+
+
+        <activity
+                android:label="padwal"
+                android:name="com.example.padwal1.MainActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

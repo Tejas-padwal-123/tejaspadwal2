@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Awarded Best Creative Member 2018-19. "
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="participated in UDAAn-Let Dream Fly organized by social wing RAIT 2018-19. "
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="honored 2 Gold medal in 4th State Level Shotiokan Karate Championship 2013. "
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Secured 2 Bronze medal in 1st and 2nd State Level Shotiokan Karate Championship 2013.  "
+        android:textSize="20sp"
+        android:textColor="#222222"
+        android:layout_gravity="left"
+        android:layout_marginBottom="2dp"
+        android:layout_marginTop="1dp"
+        android:textStyle="normal"
+/>
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="completed 1st Dan Black Belt japan Karate-Do International Diplomain 2012."
+            android:textSize="20sp"
+            android:textColor="#222222"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="1dp"
+            android:textStyle="normal"
+    />
+    <View
+
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:background="#808080"
+    />
+</LinearLayout>
